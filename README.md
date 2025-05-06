@@ -1,4 +1,4 @@
-# 🦁 FUSION REWARDS
+# 🦁 FUSION REWARDS 🦁
 
 ###### 🎁 Script de receber recompensa quando entra no servidor.
 ###### 🔑: https://discord.gg/WzQS4AQ4r2
